@@ -14,7 +14,10 @@ export default function Home() {
         <meta name="description" content="Created by Shivang yadav" />
         <link rel="icon" href="../public/assets/navLogo.png" />
       </Head>
+    
+    <div className='poster'>
     <Main />
+    </div>
     <About />
     <div className='event'>
     <Skills /> 

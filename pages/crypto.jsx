@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
 import offstageImg from '../public/assets/projects/offstage.jpeg';
-import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
 const crypto = () => {
