@@ -15,13 +15,11 @@ const Navbar = () => {
 
   useEffect(() => {
     if (
-      router.asPath === '/property' ||
-      router.asPath === '/crypto' ||
-      router.asPath === '/netflix' ||
-      router.asPath === '/twitch'
+      router.asPath === '/onstage' ||
+      router.asPath === '/offstage'
     ) {
       setNavBg('transparent');
-      setLinkColor('#000000');
+      setLinkColor('#ecf0f3');
     } else {
       setNavBg('#000000');
       setLinkColor('#ecf0f3');

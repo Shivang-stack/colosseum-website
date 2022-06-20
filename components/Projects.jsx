@@ -15,12 +15,12 @@ const Projects = () => {
           <ProjectItem
             title='On Stage Events'
             backgroundImg={onstageImg}
-            projectUrl='/property'
+            projectUrl='/onstage'
           />
           <ProjectItem
             title='Off Stage Events'
             backgroundImg={offstageImg}
-            projectUrl='/crypto'
+            projectUrl='/offstage'
           />
         </div>
       </div>
