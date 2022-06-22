@@ -184,7 +184,7 @@ const onstage = () => {
         </div>
 
         <div className='col-span-4'>
-          <p>Standup Comedy</p>
+          <h2>Standup Comedy</h2>
           <h4>Details</h4>
           <p>
             Faculty Coordinators:<br/>
@@ -227,7 +227,7 @@ const onstage = () => {
         </div> */}
 
         <div className='col-span-4'>
-          <p>Drama Skit</p>
+          <h2>Drama Skit</h2>
           <h4>Details</h4>
           <p>
           Event Co-ordinators:<br/> 
