@@ -15,9 +15,9 @@ const About = () => {
           And, all of us gathered here, after 2 long gut-wrenching years,<br/>
           post the pandemic, are living examples, <br/>
           that we will always rise from everything that happens to us.<br/>
-          COLOSSEUM isn't just a fest, its a legacy in AMCEC that we are <br/>
+          COLOSSEUM isnt just a fest, its a legacy in AMCEC that we are <br/>
           so proud to carry forward.<br/>
-          Let's GET SET GO for everything that's coming up!!<br/> 
+          Let&#39;s GET SET GO for everything that&#39;s coming up!!<br/> 
           <br/>
           BUCKLE UP YOUR SEATBELTS.
           </p>

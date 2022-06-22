@@ -22,7 +22,7 @@ const Contact = () => {
                 />
               </div>
               <div>
-                <h2 className='py-2'>Connect to our coordinators</h2>
+                <h2 className='py-2'>Connect to our Coordinators</h2>
                 <p>Checkout out our <Link href='https://www.instagram.com/colosseum_2022/'><a>Instagram</a></Link></p>
                 <p className='py-4'>
                   Feel free to reach out to us
