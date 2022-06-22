@@ -23,10 +23,16 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2'>Connect to our coordinators</h2>
-                <p>Checkout out our Instagramm</p>
+                <p>Checkout out our <Link href='https://www.instagram.com/colosseum_2022/'><a>Instagram</a></Link></p>
                 <p className='py-4'>
-                  Feel free to reachout to us
+                  Feel free to reach out to us
                 </p>
+                <p>
+                Student Coordinators:
+                </p>
+                <p>Sibam Kumar   : 8310823408 </p>
+                <p>Nistha Sharma : 9783792439</p>
+                <p>Sariq M Khan  : 7619114753</p>
               </div>
           
             </div>

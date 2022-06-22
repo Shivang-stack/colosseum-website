@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import poster from '../public/assets/poster.PNG';
+import poster from '../public/assets/posternew.PNG';
 
 
 const Main = () => {

@@ -23,7 +23,7 @@ const onstage = () => {
 
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8'>
       <div className='col-span-4'>
-          <p>Singing</p>
+          <h2>Solo Dance</h2>
           <h4>Details</h4>
           <p>
             details about event...
@@ -32,12 +32,16 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8' >Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href='https://forms.gle/7TiAUTs1u2rVUYnU9'>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
       
         <div className='col-span-4'>
-          <p>Dancing</p>
+          <h2>Group Dance</h2>
           <h4>Details</h4>
           <p>
             details about event...
@@ -46,12 +50,16 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href='https://forms.gle/z8ab8CFLze24APUdA'>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
         <div className='col-span-4'>
-          <p>Dance Battle</p>
+          <h2>Dance Battle</h2>
           <h4>Details</h4>
           <p>
             details about event...
@@ -60,21 +68,34 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href='//forms.gle/z8ab8CFLze24APUdA'>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
         <div className='col-span-4'>
-          <p>Fashion Show</p>
+          <h2>Solo Singing</h2>
           <h4>Details</h4>
           <p>
-            details about event...
+            Faculty Coordinators:<br/>
+            Shilpa RM (EEE)<br/>
+            Dr Usha Ravi (EC) <br/>
+            Student Coordinator:<br/>
+            Sankarshana Hooli:9901253065<br/> 
+            Dhanusha:9620875845
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href='https://forms.gle/xJYGTcnPUiEgwQgq9'>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
@@ -88,7 +109,11 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href=''>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
@@ -102,7 +127,11 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href=''>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
@@ -116,7 +145,11 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href=''>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
@@ -130,7 +163,11 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href=''>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
@@ -144,7 +181,11 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href=''>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
@@ -158,7 +199,11 @@ const onstage = () => {
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
-          <button className='px-8 py-2 mt-4 mr-8'>Register</button>
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href=''>
+            <a>Register</a>
+            </Link>
+            </button>
           
         </div>
 
