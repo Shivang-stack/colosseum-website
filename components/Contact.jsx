@@ -30,54 +30,16 @@ const Contact = () => {
                 <p>
                 Student Coordinators:
                 </p>
-                <p>Sibam Kumar   : 8310823408 </p>
-                <p>Nistha Sharma : 9783792439</p>
-                <p>Sariq M Khan  : 7619114753</p>
+                <p>Sibam Kumar    : 8310823408 </p>
+                <p>Nishtha Sharma : 9783792439</p>
+                <p>Shariq M Khan  : 7619114753</p>
               </div>
           
             </div>
           </div>
 
           {/* right */}
-          <div className='col-span-3 w-full h-auto shadow-xl shadow-gray-800 rounded-xl lg:p-4'>
-            <div className='p-4'>
-              <form>
-                <div className='grid md:grid-cols-2 gap-4 w-full py-2'>
-                  <div className='flex flex-col'>
-                    <label className='uppercase text-sm py-2'>Name</label>
-                    <input
-                      className='border-2 rounded-lg p-3 flex border-gray-600'
-                      type='text'
-                    />
-                  </div>
-                  <div className='flex flex-col'>
-                    <label className='uppercase text-sm py-2'>
-                      Phone Number
-                    </label>
-                    <input
-                      className='border-2 rounded-lg p-3 flex border-gray-600'
-                      type='text'
-                    />
-                  </div>
-                </div>
-                <div className='flex flex-col py-2'>
-                  <label className='uppercase text-sm py-2'>Email</label>
-                  <input
-                    className='border-2 rounded-lg p-3 flex border-gray-600'
-                    type='email'
-                  />
-                </div>
-                <div className='flex flex-col py-2'>
-                  <label className='uppercase text-sm py-2'>Query</label>
-                  <input
-                    className='border-2 rounded-lg p-3 flex border-gray-600'
-                    type='text'
-                  />
-                </div>
-                <button className='w-full p-4 text-gray-100 mt-4'>Send Message</button>
-              </form>
-            </div>
-          </div>
+          
         </div>
         <div className='flex justify-center py-12'>
             <Link href='/'>
