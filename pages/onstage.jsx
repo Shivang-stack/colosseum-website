@@ -26,7 +26,15 @@ const onstage = () => {
           <h2>Solo Dance</h2>
           <h4>Details</h4>
           <p>
-            details about event...
+          
+          Faculty Coordinators:<br/>
+          Ganesh (civil) <br/>
+          Shilpa Acharya(EEE)<br/>
+          Chandraprabha(ECE) <br/>
+          Student Coordinator:<br/>
+          Smitha : 9663917442 <br/>
+          Tammana : 6376574386<br/>
+          Manisha : 7396680478
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
@@ -44,7 +52,14 @@ const onstage = () => {
           <h2>Group Dance</h2>
           <h4>Details</h4>
           <p>
-            details about event...
+          Faculty Coordinators:<br/>
+          Ganesh (civil) <br/>
+          Shilpa Acharya(EEE)<br/>
+          Chandraprabha(ECE) <br/>
+          Student Coordinator:<br/>
+          Smitha : 9663917442 <br/>
+          Tammana : 6376574386<br/>
+          Manisha : 7396680478
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
@@ -62,7 +77,12 @@ const onstage = () => {
           <h2>Dance Battle</h2>
           <h4>Details</h4>
           <p>
-            details about event...
+          Faculty Coordinators:<br/>
+          Ganesh (civil) <br/>
+          Chandraprabha(ECE) <br/>
+          Student Coordinator:<br/>
+          Smitha : 9663917442 <br/>
+          Tammana : 6376574386<br/>
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
@@ -100,7 +120,30 @@ const onstage = () => {
         </div>
 
         <div className='col-span-4'>
-          <p>Mad Ads</p>
+          <h2>Group Singing</h2>
+          <h4>Details</h4>
+          <p>
+            Faculty Coordinators:<br/>
+            Shilpa RM (EEE)<br/>
+            Ashwini(Chem)<br/> 
+            Student Coordinator:<br/>
+            Sankarshana Hooli:9901253065<br/> 
+            Dhanusha:9620875845
+          </p>
+          <h4>Date  : </h4>
+          <h4>Time  : </h4>
+          <h4>Venue : </h4>
+          
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href='https://forms.gle/xJYGTcnPUiEgwQgq9'>
+            <a>Register</a>
+            </Link>
+            </button>
+          
+        </div>
+
+        {/* <div className='col-span-4'>
+          <h2>Mad Ads</h2>
           <h4>Details</h4>
           <p>
             details about event...
@@ -115,20 +158,25 @@ const onstage = () => {
             </Link>
             </button>
           
-        </div>
+        </div> */}
 
         <div className='col-span-4'>
-          <p>Drama, Skit And Mimes</p>
+          <h2>Fashion Show</h2>
           <h4>Details</h4>
           <p>
-            details about event...
+          Faculty Coordinators:<br/>
+          Mushtaq Ahmed (CSE) <br/>
+          Student Coordinators:<br/>
+          Monisha : 9535747779 <br/>
+          Sakshee : 7430040816 <br/>
+          Olivia Roy : 9019196528
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSfg_xK6BEVCGWrTeYA-Iuo7-RmnNYxLTH-BkkJxUsAYVGnFvw/viewform'>
             <a>Register</a>
             </Link>
             </button>
@@ -139,21 +187,28 @@ const onstage = () => {
           <p>Standup Comedy</p>
           <h4>Details</h4>
           <p>
-            details about event...
+            Faculty Coordinators:<br/>
+            Moiyuddin-(civ) <br/>
+            Sivanand-(ISE) <br/>
+            Jhanvi-(ECE)<br/>
+          Student Coordinators:<br/>
+          Md Ameem: 9739318689<br/>
+          Pawan: 7337719048<br/>
+          Shubham: 9798890276
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSeIKRq9_BfG8T6LcvGLwR3V6-p1fh9NRiUHrZqF--8qZT7qUg/viewform'>
             <a>Register</a>
             </Link>
             </button>
           
         </div>
 
-        <div className='col-span-4'>
+        {/* <div className='col-span-4'>
           <p>Mr And Ms AMC</p>
           <h4>Details</h4>
           <p>
@@ -169,26 +224,33 @@ const onstage = () => {
             </Link>
             </button>
           
-        </div>
+        </div> */}
 
         <div className='col-span-4'>
-          <p>Beat Boxing</p>
+          <p>Drama Skit</p>
           <h4>Details</h4>
           <p>
-            details about event...
+          Event Co-ordinators:<br/> 
+          Smriti  : 9264945236 <br/>
+          Karthik : 6361909110 <br/> 
+
+          Faulty Co-ordinators: 
+          Sneha(Maths Department)<br/> 
+          Manjula(Maths Department)<br/> 
+          Maithili(Civil Department)
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
           <h4>Venue : </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLScnCQTMrvER6wd3ab7-ciWC41XJiRbT57nriqykIOZ69RTM6Q/viewform?vc=0&c=0&w=1&flr=0'>
             <a>Register</a>
             </Link>
             </button>
           
         </div>
-
+{/* 
         <div className='col-span-4'>
           <p>Dj Night</p>
           <h4>Details</h4>
@@ -205,7 +267,7 @@ const onstage = () => {
             </Link>
             </button>
           
-        </div>
+        </div> */}
 
         
         <Link href='/#registrations'>

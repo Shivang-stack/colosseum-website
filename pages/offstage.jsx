@@ -103,7 +103,7 @@ const crypto = () => {
           Seema (CSE)<br/>
 
           Student Coordinators:<br/>
-          Swati Priya (CSE)
+          Swati Priya :6201299899
           </p>
           <h4>Date  : </h4>
           <h4>Time  : </h4>
