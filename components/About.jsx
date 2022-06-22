@@ -9,17 +9,19 @@ const About = () => {
           <h2 className='py-4'>Whats this fest is all about</h2>
           <p className='py-2 text-gray-300'>Its not your Normal College Fest</p>
           <p className='py-2 text-gray-300'>
-          Lorem Ipsum is simply dummy text of the printing and typesetting 
-          industry. Lorem Ipsum has been the industrys standard dummy text 
-          ever since the 1500s, when an unknown printer took a galley of 
-          type and scrambled it to make a type specimen book. It has 
-          survived not only five centuries, but also the leap into electronic 
-          typesetting, remaining essentially unchanged. It was popularised 
-          in the 1960s with the release of Letraset sheets containing Lorem 
-          Ipsum passages, and more recently with desktop publishing software 
-          like Aldus PageMaker including versions of Lorem Ipsum
+          A WISE MAN ONCE SAID:<br/>
+          “AFTER THE RAIN, THE SUN REAPPEARS.<br/> 
+          THERE IS LIFE. AFTER THE PAIN THE JOY WILL STILL BE HERE.”<br/>
+          And, all of us gathered here, after 2 long gut-wrenching years,<br/>
+          post the pandemic, are living examples, <br/>
+          that we will always rise from everything that happens to us.<br/>
+          COLOSSEUM isn't just a fest, its a legacy in AMCEC that we are <br/>
+          so proud to carry forward.<br/>
+          Let's GET SET GO for everything that's coming up!!<br/> 
+          <br/>
+          BUCKLE UP YOUR SEATBELTS.
           </p>
-          <p className='py-2 text-gray-300'>
+          {/* <p className='py-2 text-gray-300'>
           Lorem Ipsum is simply dummy text of the printing and typesetting 
           industry. Lorem Ipsum has been the industrys standard dummy text 
           ever since the 1500s, when an unknown printer took a galley of 
@@ -30,7 +32,7 @@ const About = () => {
           Ipsum passages, and more recently with desktop publishing software 
           like Aldus PageMaker including versions of Lorem Ipsum
           
-          </p>
+          </p> */}
           {/* <p className='py-2 text-gray-300 underline cursor-pointer'>Check out some of my latest projects.</p> */}
         </div>
         {/* <div className='w-full h-auto m-auto shadow-xl shadow-gray-800 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
