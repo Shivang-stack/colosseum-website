@@ -208,6 +208,16 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 bg-slate-900'>
             <div className=' gap-4 justify-center items-center'>
               <div className='flex flex-col items-center justify-center'>
+                <Link href='/onstage'> 
+                   <h3>Drama Skit</h3>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 bg-slate-900'>
+            <div className=' gap-4 justify-center items-center'>
+              <div className='flex flex-col items-center justify-center'>
                 <Link href='/onstage'>
                 <h3>DJ Night</h3>
                 </Link>

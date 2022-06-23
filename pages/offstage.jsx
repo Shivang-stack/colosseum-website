@@ -35,7 +35,7 @@ const crypto = () => {
             CHANDRACHUDA HOSAHALLI :-9632439632
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
+          
           <h4>Venue :  Civil dept Seminar Hall</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -60,7 +60,7 @@ const crypto = () => {
           Akshaya KR: 9742336057
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
+          
           <h4>Venue : Infront of Staircase </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -82,7 +82,7 @@ const crypto = () => {
           Prajwal - 8884734459
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
+          
           <h4>Venue :  Edusat room (222) </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -106,8 +106,7 @@ const crypto = () => {
           Swati Priya :6201299899
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
-          <h4>Venue : </h4>
+          <h4>Venue :  Campus</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
             <Link  href='https://forms.gle/s5uUCMSY1wh3FpzTA'>
@@ -128,8 +127,7 @@ const crypto = () => {
           TANIYA RUKHSAR :8088260539
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
-          <h4>Venue : </h4>
+          <h4>Venue :  Campus</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
             <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSeyJ4Xbnd-P7IYikIVXFy12_Pf0pFcsN0CTmkC5l_kNfkXwQQ/viewform?usp=sf_link'>
@@ -153,7 +151,6 @@ const crypto = () => {
           Jayanth.U - 7349695579
           </p>
           <h4>Date  :  30th June 2022 </h4>
-          <h4>Time  : 2:00 PM</h4>
           <h4>Venue : ISE SEMINAR HALL </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -179,7 +176,6 @@ const crypto = () => {
 
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
           <h4>Venue : Room 221 </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -203,7 +199,6 @@ const crypto = () => {
 
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
           <h4>Venue : Edusat Room (222) </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -228,7 +223,7 @@ const crypto = () => {
           Meghana R - 8310445875
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
+          
           <h4>Venue : Room 314 </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -251,7 +246,6 @@ const crypto = () => {
           ROHITH : 8197327234
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
           <h4>Venue : EDUSAT ROOM (ROOM NO 222) MAIN BLOCK</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -276,7 +270,6 @@ const crypto = () => {
           Suhaas - 9738344796
           </p>
           <h4>Date  : </h4>
-          <h4>Time  : </h4>
           <h4>Venue : Online</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
