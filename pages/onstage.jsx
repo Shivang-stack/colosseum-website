@@ -93,7 +93,7 @@ const onstage = () => {
           
         </div>
 
-        {/* <div className='col-span-4'>
+        <div className='col-span-4'>
           <h2>Solo Singing</h2>
           <h4>Details</h4>
           <p>
@@ -113,7 +113,7 @@ const onstage = () => {
             </Link>
             </button>
           
-        </div> */}
+        </div>
 
         <div className='col-span-4'>
           <h2>Group Singing</h2>
