@@ -36,7 +36,7 @@ const onstage = () => {
           Tammana : 6376574386<br/>
           Manisha : 7396680478
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022 </h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -60,7 +60,7 @@ const onstage = () => {
           Tammana : 6376574386<br/>
           Manisha : 7396680478
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -82,7 +82,7 @@ const onstage = () => {
           Smitha : 9663917442 <br/>
           Tammana : 6376574386<br/>
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -104,7 +104,7 @@ const onstage = () => {
             Sankarshana Hooli:9901253065<br/> 
             Dhanusha:9620875845
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -126,7 +126,7 @@ const onstage = () => {
             Sankarshana Hooli:9901253065<br/> 
             Dhanusha:9620875845
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -148,7 +148,7 @@ const onstage = () => {
           Meghna-8431550151<br/>
           Madhura-9113818484<br/>
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022 </h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -170,7 +170,7 @@ const onstage = () => {
           Sakshee : 7430040816 <br/>
           Olivia Roy : 9019196528
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -194,7 +194,7 @@ const onstage = () => {
           Pawan: 7337719048<br/>
           Shubham: 9798890276
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -209,15 +209,15 @@ const onstage = () => {
           <h2>Beat Boxing</h2>
           <h4>Details</h4>
           <p>
-          TEACHER COORDINATOR:
-          Dr Saravanan (ME)
-          Victor (ECE)
-          STUDENT COORDINATOR :
-          Vikas   :6360545450
-          Thimmesh:6363666654  
+          TEACHER COORDINATOR:<br/>
+          Dr Saravanan (ME)<br/>
+          Victor (ECE)<br/>
+          STUDENT COORDINATOR :<br/>
+          Vikas   :6360545450<br/>
+          Thimmesh:6363666654  <br/>
           Sachin  :7424959849
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -241,7 +241,7 @@ const onstage = () => {
           Manjula(Maths Department)<br/> 
           Maithili(Civil Department)
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           
           
           <button className='px-8 py-2 mt-4 mr-8'>

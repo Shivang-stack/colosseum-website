@@ -22,6 +22,31 @@ const crypto = () => {
       </div>
 
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8'>
+
+      <div className='col-span-4'>
+          <h2>E-Gaming</h2>
+          <h4>Details</h4>
+          <p>
+          Faculty Coordinators:<br/>
+          Dr. S Rabindranath <br/>
+          Mr. Ravitej<br/>
+          Mr. Anand<br/>
+
+          Student Coordinators:<br/>
+          Sudeep - 9071033355<br/>
+          Suhaas - 9738344796
+          </p>
+          <h4>Date  : 30th June 2022 </h4>
+          <h4>Venue : Online</h4>
+          
+          <button className='px-8 py-2 mt-4 mr-8'>
+            <Link  href='https://forms.gle/xJbJ8Rm7GLwGLVU57'>
+            <a>Register</a>
+            </Link>
+            </button>
+          
+        </div>
+
         <div className='col-span-4 '>
           <h2>Debate</h2>
           <h5>Details</h5>
@@ -34,7 +59,7 @@ const crypto = () => {
             STUDENT COORDINATORS<br/>
             CHANDRACHUDA HOSAHALLI :-9632439632
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 30th June 2022</h4>
           
           <h4>Venue :  Civil dept Seminar Hall</h4>
           
@@ -59,7 +84,7 @@ const crypto = () => {
           Tammana: 6376574386<br/>
           Akshaya KR: 9742336057
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 30th June 2022</h4>
           
           <h4>Venue : Infront of Staircase </h4>
           
@@ -81,7 +106,7 @@ const crypto = () => {
           Student coordinator :<br/>
           Prajwal - 8884734459
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 30th June 2022</h4>
           
           <h4>Venue :  Edusat room (222) </h4>
           
@@ -105,7 +130,7 @@ const crypto = () => {
           Student Coordinators:<br/>
           Swati Priya :6201299899
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           <h4>Venue :  Campus</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -126,7 +151,7 @@ const crypto = () => {
           STUDENT COORDINATORS: <br/>
           TANIYA RUKHSAR :8088260539
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022 </h4>
           <h4>Venue :  Campus</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -150,7 +175,7 @@ const crypto = () => {
           Student Coordinator<br/>
           Jayanth.U - 7349695579
           </p>
-          <h4>Date  :  30th June 2022 </h4>
+          <h4>Date  :  30thth June 2022 </h4>
           <h4>Venue : ISE SEMINAR HALL </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -175,7 +200,7 @@ const crypto = () => {
             Shoaib:9606227983
 
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 30th June 2022</h4>
           <h4>Venue : Room 221 </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -198,11 +223,11 @@ const crypto = () => {
             Olivia Roy:9019196528
 
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 30th June 2022</h4>
           <h4>Venue : Edusat Room (222) </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href='https://forms.gle/EEvT1F4Sho8wgswg8'>
+            <Link  href='https://forms.gle/K6E5p1cZqDandKANA'>
             <a>Register</a>
             </Link>
             </button>
@@ -222,7 +247,7 @@ const crypto = () => {
           Kusuma S - 9353733517<br/>
           Meghana R - 8310445875
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 30th June 2022</h4>
           
           <h4>Venue : Room 314 </h4>
           
@@ -245,7 +270,7 @@ const crypto = () => {
           HARSHAVARDHAN P : 9632424030<br/>
           ROHITH : 8197327234
           </p>
-          <h4>Date  : </h4>
+          <h4>Date  : 1st July 2022</h4>
           <h4>Venue : EDUSAT ROOM (ROOM NO 222) MAIN BLOCK</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
@@ -256,29 +281,6 @@ const crypto = () => {
           
         </div>
 
-        <div className='col-span-4'>
-          <h2>E-Gaming</h2>
-          <h4>Details</h4>
-          <p>
-          Faculty Coordinators:<br/>
-          Dr. S Rabindranath <br/>
-          Mr. Ravitej<br/>
-          Mr. Anand<br/>
-
-          Student Coordinators:<br/>
-          Sudeep - 9071033355<br/>
-          Suhaas - 9738344796
-          </p>
-          <h4>Date  : </h4>
-          <h4>Venue : Online</h4>
-          
-          <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href='https://forms.gle/xJbJ8Rm7GLwGLVU57'>
-            <a>Register</a>
-            </Link>
-            </button>
-          
-        </div>
 
         <Link href='/#registrations'>
           <p className='underline cursor-pointer'>Back</p>
