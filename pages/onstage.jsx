@@ -34,7 +34,7 @@ const onstage = () => {
           Student Coordinator:<br/>
           Smitha : 9663917442 <br/>
           Tammana : 6376574386<br/>
-          Manisha : 7396680478
+          Vishal: 8904686659
           </p>
           <h4>Date  : 1st July 2022 </h4>
           
@@ -58,7 +58,7 @@ const onstage = () => {
           Student Coordinator:<br/>
           Smitha : 9663917442 <br/>
           Tammana : 6376574386<br/>
-          Manisha : 7396680478
+          Vishal: 8904686659
           </p>
           <h4>Date  : 1st July 2022</h4>
           
@@ -145,8 +145,8 @@ const onstage = () => {
           Geetha(ME)<br/>
           Tanuja(MBA)<br/>
           Student Coordinators:<br/>
-          Meghna-8431550151<br/>
-          Madhura-9113818484<br/>
+          Keerthi:7259970624<br/>
+          Madhura:9113818484<br/>
           </p>
           <h4>Date  : 1st July 2022 </h4>
           
