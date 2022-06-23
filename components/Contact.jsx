@@ -48,6 +48,10 @@ const Contact = () => {
                 </div>
             </Link>
         </div>
+        <div className='flex justify-center py-12 text-[#5651e5]'>
+          
+        <a href='https://portfolio-nextjs-swart-kappa.vercel.app/'> &copy; Created by Shivang Yadav (CSE)</a>
+        </div>
       </div>
     </div>
   );

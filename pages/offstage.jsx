@@ -149,7 +149,8 @@ const crypto = () => {
           BARNALI MAAM (MBA dept)<br/>
           RACHANA MAAM (ISE dept)<br/>
           STUDENT COORDINATORS: <br/>
-          TANIYA RUKHSAR :8088260539
+          TANIYA RUKHSAR :8088260539<br/>
+          Pratiksha	K	:731280659
           </p>
           <h4>Date  : 1st July 2022 </h4>
           <h4>Venue :  Campus</h4>
@@ -197,7 +198,8 @@ const crypto = () => {
             Rajashree(ISE)<br/>
             
             Student coordinator:<br/>
-            Shoaib:9606227983
+            Shoaib :9606227983<br/>
+            Ujjval :8493875523
 
           </p>
           <h4>Date  : 30th June 2022</h4>
