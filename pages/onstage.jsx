@@ -86,14 +86,14 @@ const onstage = () => {
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href='//forms.gle/z8ab8CFLze24APUdA'>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSel2qmEL9hGHSaj1hCoaRjBb0qG__HBV3pettS0zcbuF2CcwA/viewform'>
             <a>Register</a>
             </Link>
             </button>
           
         </div>
 
-        <div className='col-span-4'>
+        {/* <div className='col-span-4'>
           <h2>Solo Singing</h2>
           <h4>Details</h4>
           <p>
@@ -108,12 +108,12 @@ const onstage = () => {
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href='https://forms.gle/xJYGTcnPUiEgwQgq9'>
+            <Link  href='https://forms.gle/338EK8sAQfgye4nf8'>
             <a>Register</a>
             </Link>
             </button>
           
-        </div>
+        </div> */}
 
         <div className='col-span-4'>
           <h2>Group Singing</h2>
@@ -130,7 +130,7 @@ const onstage = () => {
           
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href='https://forms.gle/xJYGTcnPUiEgwQgq9'>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSeBgY9UL1bqRRM0qIMQTM5Z8QvKxcsVQi1KipppJ7sQvC3ifw/viewform'>
             <a>Register</a>
             </Link>
             </button>

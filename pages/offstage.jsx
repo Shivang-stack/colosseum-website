@@ -111,7 +111,7 @@ const crypto = () => {
           <h4>Venue :  Edusat room (222) </h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://forms.gle/oi1wmEQ9jb1rH1Sj6'>
             <a>Register</a>
             </Link>
             </button>
