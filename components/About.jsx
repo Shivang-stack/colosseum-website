@@ -6,8 +6,8 @@ const About = () => {
       <div className='max-w-[1240px] m-auto md:grid grid-cols-3 gap-8'>
         <div className='col-span-2'>
           <p className='uppercase text-xl tracking-widest text-[#5651e5]'>About</p>
-          <h2 className='py-4'>Whats this fest is all about</h2>
-          <p className='py-2 text-gray-300'>Its not your Normal College Fest</p>
+          <h2 className='py-4'>What&#39;s this fest is all about</h2>
+          <p className='py-2 text-gray-300'>It&#39;s not your Normal College Fest</p>
           <p className='py-2 text-gray-300'>
           A WISE MAN ONCE SAID:
           “AFTER THE RAIN, THE SUN REAPPEARS. 
