@@ -150,14 +150,14 @@ const crypto = () => {
           RACHANA MAAM (ISE dept)<br/>
           STUDENT COORDINATORS: <br/>
           TANIYA RUKHSAR :8088260539<br/>
-          Pratiksha	K	:731280659
+          Pratiksha	K	:9731280659
           </p>
           <h4>Date  : 1st July 2022 </h4>
           <h4>Venue :  Campus</h4>
           
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSeyJ4Xbnd-P7IYikIVXFy12_Pf0pFcsN0CTmkC5l_kNfkXwQQ/viewform?usp=sf_link'>
-            <a>Register</a>
+            <Link  href=''>
+            <a>Registeration closed</a>
             </Link>
             </button>
           
